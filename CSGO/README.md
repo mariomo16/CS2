@@ -7,7 +7,7 @@
 
 ## Ejecuta automáticamente el autoexec al iniciar el juego
 
-En los parametros de lanzamiento de Counter-Strike: Global Offensive escribe `+exec autoexec`
+En los parámetros de lanzamiento de Counter-Strike: Global Offensive, escribe `+exec autoexec`.
 
 ----
 
@@ -21,6 +21,14 @@ En los parametros de lanzamiento de Counter-Strike: Global Offensive escribe `+e
 ## Ejecuta automáticamente la configuración al usar el comando `map`
 
 Nombra el archivo `listenserver.cfg`, así el juego lo ejecutará automáticamente cada vez que inicies un servidor local.
+
+---
+
+# Instalación del TextMod
+1. [Haz clic en este enlace para descargar el archivo](https://github.com/mariomo16/CS2/blob/main/CSGO/csgo_mario.txt) (Presiona <kbd>Ctrl+S</kbd>)
+2. Guarda este archivo como `csgo_textmod.txt` y colócalo en la siguiente carpeta:  
+`Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource`
+3. En los parámetros de lanzamiento de Counter-Strike: Global Offensive, escribe `-language textmod`.
 
 ---
 
