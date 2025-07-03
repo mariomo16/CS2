@@ -1,6 +1,6 @@
 # Instalación del autoexec
 
-1. [Haz clic en este enlace para descargar el archivo](https://raw.githubusercontent.com/mariomo16/CS2/main/CS:GO/mario.cfg) (Press <kbd>Ctrl+S</kbd>)
+1. [Haz clic en este enlace para descargar el archivo](https://github.com/mariomo16/CS2/blob/main/CSGO/cfg/mario.cfg) (Press <kbd>Ctrl+S</kbd>)
 2. Guarda este archivo como `autoexec.cfg` y colócalo dentro de esta carpeta:  
 `Steam\userdata\steamID3\730\local\cfg`
 3. Cada vez que inicies el juego escribe `exec autoexec` en la consola
@@ -13,7 +13,7 @@ En los parametros de lanzamiento de Counter-Strike: Global Offensive escribe `+e
 
 # Instalación de la configuración de práctica
 
-1. [Haz clic en este enlace para descargar el archivo](https://raw.githubusercontent.com/mariomo16/CS2/main/CS:GO/practica.cfg) (Press <kbd>Ctrl+S</kbd>)
+1. [Haz clic en este enlace para descargar el archivo](https://github.com/mariomo16/CS2/blob/main/CSGO/cfg/practica.cfg) (Press <kbd>Ctrl+S</kbd>)
 2. Guarda este archivo como `practica.cfg` y colócalo dentro de esta carpeta:  
 `Steam\userdata\steamID3\730\local\cfg`
 3. Carga un mapa localmente y escribe `exec practica` en la consola
