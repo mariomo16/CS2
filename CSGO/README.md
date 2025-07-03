@@ -47,4 +47,4 @@ Nombra el archivo `listenserver.cfg`, así el juego lo ejecutará automáticamen
 `Steam\steamapps\common\Counter-Strike Global Offensive\csgo\panorama\videos`
 3. Dentro del juego, selecciona de fondo el mapa cuyo nombre coincida con los archivos que descargaste.
 > [!NOTE]  
-> Puedes descargar varias versiones de panorama y ponerles nombres de mapas distintos para tenerlos todos instalados, y solamente sea necesario cambiar el mapa de fondo dentro del juego.
+> Puedes descargar varias versiones de panorama y renombrarlas con nombres de mapas diferentes para tenerlas todas instaladas. Así, solo tendrás que cambiar el mapa de fondo dentro del juego para usarlas.
