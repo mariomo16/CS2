@@ -9,6 +9,9 @@
 
 En los parámetros de lanzamiento de Counter-Strike 2, escribe `+exec autoexec`.
 
+> [!IMPORTANT]  
+> Mi autoexec incluye prácticamente todos los ajustes de CS2, por lo que no será necesario usar ningún otro archivo como en CS:GO.
+
 ----
 
 # Instalación de la configuración de práctica
