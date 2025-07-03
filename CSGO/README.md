@@ -1,7 +1,7 @@
 # Instalación del autoexec
 
 1. [Haz clic en este enlace para descargar el archivo](https://github.com/mariomo16/CS2/blob/main/CSGO/cfg/mario.cfg) (Presiona <kbd>Ctrl+S</kbd>)
-2. Guarda este archivo como `autoexec.cfg` y colócalo en la siguiente carpeta:   
+2. Guarda este archivo como `autoexec.cfg` y colócalo en la siguiente carpeta:  
 `Steam\userdata\steamID3\730\local\cfg`
 3. Cada vez que inicies el juego, escribe `exec autoexec` en la consola para aplicar la configuración.
 
@@ -35,5 +35,5 @@ Nombra el archivo `listenserver.cfg`, así el juego lo ejecutará automáticamen
 # Instalación de Simple Radar
 
 1. Descarga la versión del radar que más te guste (oscuro o claro, con o sin elevaciones).
-2. Guarda todos los archivos y colócalos en la siguiente carpeta:
+2. Guarda todos los archivos y colócalos en la siguiente carpeta:  
 `Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\overview`
