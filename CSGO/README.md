@@ -37,3 +37,14 @@ Nombra el archivo `listenserver.cfg`, así el juego lo ejecutará automáticamen
 1. Descarga la versión del radar que más te guste (oscuro o claro, con o sin elevaciones).
 2. Guarda todos los archivos y colócalos en la siguiente carpeta:  
 `Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\overview`
+
+---
+
+# Instalación de Panorama
+
+1. Descarga el fondo de panorama que mas te guste.
+2. Guarda todos los archivos y colócalos en la siguiente carpeta:  
+`Steam\steamapps\common\Counter-Strike Global Offensive\csgo\panorama\videos`
+3. Dentro del juego, selecciona de fondo el mapa cuyo nombre coincida con los archivos que descargaste.
+> [!NOTE]  
+> Puedes descargar varias versiones de panorama y ponerles nombres de mapas distintos para tenerlos todos instalados, y solamente sea necesario cambiar el mapa de fondo dentro del juego.
