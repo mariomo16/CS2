@@ -1,5 +1,8 @@
 # Instalación del autoexec
 
+> [!IMPORTANT]  
+> Mi autoexec incluye prácticamente todos los ajustes de CS2, por lo que no será necesario usar ningún otro archivo como en CS:GO.
+
 1. [Haz clic en este enlace para descargar el archivo](https://raw.githubusercontent.com/mariomo16/CS2/refs/heads/main/mario.cfg) (Press <kbd>Ctrl+S</kbd>)
 2. Guarda este archivo como `autoexec.cfg` y colócalo en la siguiente carpeta:  
 `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
@@ -8,9 +11,6 @@
 ## Ejecuta automáticamente el autoexec al iniciar el juego
 
 En los parámetros de lanzamiento de Counter-Strike 2, escribe `+exec autoexec`.
-
-> [!IMPORTANT]  
-> Mi autoexec incluye prácticamente todos los ajustes de CS2, por lo que no será necesario usar ningún otro archivo como en CS:GO.
 
 ----
 
