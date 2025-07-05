@@ -43,4 +43,4 @@
 3. Dentro del juego, selecciona de fondo el mapa cuyo nombre coincida con los archivos que descargaste.
 
 > [!NOTE]  
-> Puedes descargar varias versiones de panorama y renombrarlas con nombres de mapas diferentes para tenerlas todas instaladas. Así, solo tendrás que cambiar el mapa de fondo dentro del juego para usarlas.
+> Si quieres conservar múltiples versiones del panorama, guárdalas con nombres de mapas diferentes.
