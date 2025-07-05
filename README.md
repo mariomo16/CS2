@@ -9,7 +9,7 @@
 3. Cada vez que inicies el juego, escribe `exec autoexec` en la consola para aplicar la configuración.
 
 > [!TIP]  
-> Ejecución automática: Añade `+exec autoexec` en los parámetros de lanzamiento de CS2
+> Ejecución automática: Añade `+exec autoexec` en los parámetros de lanzamiento de CS2.
 
 ----
 
