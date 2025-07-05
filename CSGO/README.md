@@ -24,23 +24,3 @@
 2. Guarda este archivo como `csgo_textmod.txt` y colócalo en la siguiente carpeta:  
 `Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource`
 3. En los parámetros de lanzamiento de Counter-Strike: Global Offensive, escribe `-language textmod`.
-
----
-
-# Instalación de Simple Radar
-
-1. [Haz clic en este enlace para descargar los archivos del radar](https://github.com/mariomo16/CS2/releases/tag/csgo-radar-final)
-2. Guarda todos los archivos de la versión del radar que prefieras y colócalos en la siguiente carpeta:  
-`Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\overview`
-
----
-
-# Instalación de Panorama
-
-1. [Haz clic en este enlace para descargar los archivos de Panorama](https://github.com/mariomo16/CS2/releases/tag/csgo-panorama-final)
-2. Guarda todos los archivos que te gusten y colócalos en la siguiente carpeta:  
-`Steam\steamapps\common\Counter-Strike Global Offensive\csgo\panorama\videos`
-3. Dentro del juego, selecciona de fondo el mapa cuyo nombre coincida con los archivos que descargaste.
-
-> [!NOTE]  
-> Si quieres conservar múltiples versiones del panorama, guárdalas con nombres de mapas diferentes.
