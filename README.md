@@ -1,4 +1,4 @@
-> [!IMPORTANT]  
+> [!NOTE]  
 > Mi autoexec incluye prácticamente todos los ajustes de CS2, por lo que no será necesario usar ningún otro archivo como en CS:GO.
 
 # Instalación del autoexec
