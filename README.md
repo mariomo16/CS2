@@ -8,9 +8,8 @@
 `Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
 3. Cada vez que inicies el juego, escribe `exec autoexec` en la consola para aplicar la configuración.
 
-## Ejecuta automáticamente el autoexec al iniciar el juego
-
-En los parámetros de lanzamiento de Counter-Strike 2, escribe `+exec autoexec`.
+> [!TIP]  
+> En los parámetros de lanzamiento de Counter-Strike 2, escribe `+exec autoexec` para que se ejecute automaticamente al abrir el juego.
 
 ----
 
