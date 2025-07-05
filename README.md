@@ -9,7 +9,7 @@
 3. Cada vez que inicies el juego, escribe `exec autoexec` en la consola para aplicar la configuración.
 
 > [!TIP]  
-> En los parámetros de lanzamiento de Counter-Strike 2, escribe `+exec autoexec` para que se ejecute automaticamente al abrir el juego.
+> Ejecución automática: Añade `+exec autoexec` en los parámetros de lanzamiento de CS2
 
 ----
 
