@@ -1,29 +1,13 @@
-## [v2.0.0] - 03-06-2025
-### 🟣 Porteado
-- Importados todos los comandos funcionales del `autoexec.cfg` de CS:GO a `autoexec.cfg` de CS2.
-    - Adaptados algunos comandos para compatibilidad con la nueva versión de CS2.
-
-## [v2.1.0] - 07-06-2025
+## [v2.5.0] - 06-07-2025
 ### 🟢 Agregado
-- Añadidos varios comandos nuevos.
-
-## [v2.2.0] - 27-06-2025
-### 🟢 Agregado
-- Gran cantidad de comandos nuevos.
+- ui_inspect_bkgnd_map_9CA40421
+- snd_spatialize_lerp
+- con_enable
+- Varios aliases
 ### 🟡 Cambiado
-- Reorganización de todos los comandos para mejorar la claridad.
-
-## [v2.2.1] - 03-07-2025
-### 🔵 Corregido
-- cl_mute_enemy_team
-
-## [v2.3.0] - 04-07-2025
-### 🟢 Agregado
-- ui_mainmenu_bkgnd_movie_9CA40421
-- cl_inventory_saved_sort2
-- bind sv_rethrow_last_grenade
-### 🔵 Corregido
-- install_dlc_workshoptools_cvar
+- Reorganización completa de todos los comandos para mejorar la claridad y facilitar futuras modificaciones.
+### 🔴 Eliminado
+- voice_vox
 
 ## [v2.4.0] - 05-07-2025
 ### 🟢 Agregado
@@ -48,13 +32,29 @@
 ### 🔵 Corregido
 - toggleradarscale
 
-## [v2.5.0] - 06-07-2025
+## [v2.3.0] - 04-07-2025
 ### 🟢 Agregado
-- ui_inspect_bkgnd_map_9CA40421
-- snd_spatialize_lerp
-- con_enable
-- Varios aliases
+- ui_mainmenu_bkgnd_movie_9CA40421
+- cl_inventory_saved_sort2
+- bind sv_rethrow_last_grenade
+### 🔵 Corregido
+- install_dlc_workshoptools_cvar
+
+## [v2.2.1] - 03-07-2025
+### 🔵 Corregido
+- cl_mute_enemy_team
+
+## [v2.2.0] - 27-06-2025
+### 🟢 Agregado
+- Gran cantidad de comandos nuevos.
 ### 🟡 Cambiado
-- Reorganización completa de todos los comandos para mejorar la claridad y facilitar futuras modificaciones.
-### 🔴 Eliminado
-- voice_vox
+- Reorganización de todos los comandos para mejorar la claridad.
+
+## [v2.1.0] - 07-06-2025
+### 🟢 Agregado
+- Añadidos varios comandos nuevos.
+
+## [v2.0.0] - 03-06-2025
+### 🟣 Porteado
+- Importados todos los comandos funcionales del `autoexec.cfg` de CS:GO a `autoexec.cfg` de CS2.
+    - Adaptados algunos comandos para compatibilidad con la nueva versión de CS2.
