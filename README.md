@@ -1,5 +1,5 @@
 > [!NOTE]  
-> Mi autoexec incluye prácticamente todos los ajustes, por lo que no será necesario usar ningún otro archivo.
+> Mi autoexec incluye TODOS los ajustes y más, por lo que no será necesario usar ningún otro archivo.
 
 # Instalación del autoexec
 
